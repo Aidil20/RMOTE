@@ -1,0 +1,2 @@
+# RMOTE
+script remote ponsel 
